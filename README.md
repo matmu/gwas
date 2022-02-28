@@ -10,8 +10,10 @@ This repository provides a description of workflow for analysing GWAS data. All 
 Note: In some cases, scripts, parameters and thresholds need to be adapted to consider certain data proporties.
 
 ## Reference files
-[GRCh37 reference (fasta.gz)](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/technical/reference/human_g1k_v37.fasta.gz)
+[GRCh37 reference (fasta.gz)](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/technical/reference/human_g1k_v37.fasta.gz) \
 [1000 Genomes allele frequency annotations (vcf.gz)](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/ALL.wgs.phase3_shapeit2_mvncall_integrated_v5b.20130502.sites.vcf.gz)
+
+
 
 ## 1. QC of unimputed data
 **Script:** qc_unimputed.sh \
