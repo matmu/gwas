@@ -23,7 +23,7 @@ For imputation I recommend the Sanger imputation server (free of charge) at http
 ## 3. QC of imputed data
 **Script:** qc_imputed.sh \
 **Input data:** Input files (*.vcf.gz) from Sanger imputation server. \
-**Required programs:** bcftools \
+**Required programs:** bcftools, Perl modules File::Basename and Benchmark \
 **Annotation files:** allele frequency file
 
 
