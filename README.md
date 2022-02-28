@@ -22,8 +22,8 @@ For imputation I recommend the Sanger imputation server (free of charge) at http
 
 ## 3. QC of imputed data
 **Script:** qc_imputed.sh \
-**Input data:** Input files (*.vcf.gz) from Sanger imputation server.
-**Required programs:** bcftools
+**Input data:** Input files (*.vcf.gz) from Sanger imputation server. \
+**Required programs:** bcftools \
 **Annotation files:** allele frequency file
 
 
