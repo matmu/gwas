@@ -1,10 +1,6 @@
 #!/usr/bin/perl
 
 
-use lib('/nfshome/munz/lib/perl5');
-use lib('/nfshome/munz/workspace/perl_modules');
-
-
 use strict;
 use warnings;
 use Parallel::SystemFork;
